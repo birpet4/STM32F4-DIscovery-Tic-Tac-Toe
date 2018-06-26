@@ -1,4 +1,5 @@
 # 3x3 Tic-Tac-Toe
+
 A játék függvényeit a TicTacToe.h-ben deklaráltam és TicTacToe.c-ben implementáltam. A kártya beépített függvényei közül a drawing, display, és a touch.h-t függvényeit használtam.
 
  A program előszőr a pálya kirajzolásával kezdődik, ez a DrawField függvény segítségével történik. A képernyőre a zöld kört a DrawCircle függvénnyel, a piros X-et a DrawLine függvénnyel rajzoljuk ki. 
